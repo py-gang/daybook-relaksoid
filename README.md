@@ -1,6 +1,6 @@
-#PyGang
+# PyGang
 
-##Git basics
+## Git basics
 
 - rebase, clone, branch logic, merge, HEAD, MarkDown^^
 - branch and merge
